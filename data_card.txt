@@ -7,7 +7,7 @@ Features:
 
 **CreditScore**: The credit score of the customer.
 
-**Geography**: The geographical location of the customer (e.g., country or region).
+**Geography**: The geographical location of the customer (e.g., country or region). 1 for France, 2 for Germany, 3 for Spain. 
 
 **Gender**: The gender of the customer.
 
